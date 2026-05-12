@@ -1,16 +1,71 @@
-# React + Vite
+Pokedex Web Application
+- A responsive and modern Pokedex application built using React and Vite that allows users to search and explore Pokémon details using   the PokeAPI.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+Features
+-  Search Pokémon by name
+-  View Pokémon details
+-  Fast and responsive UI
+-  API Integration using PokéAPI
+-  Mobile-friendly design
+-  Clean and interactive user interface
+  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Tech Stack
+- React.js
+- Vite
+- JavaScript
+- HTML5
+- CSS3
+- PokeAPI
 
-## React Compiler
+ 
+Screenshots
+<img width="1920" height="1080" alt="Screenshot (82)" src="https://github.com/user-attachments/assets/6878fe9a-c10b-4c25-af3e-bf8bbadac681" />
+<img width="1920" height="1080" alt="Screenshot (83)" src="https://github.com/user-attachments/assets/e5a8e192-6f76-4e2a-8c75-ab80d9c77890" />
+<img width="1920" height="1080" alt="Screenshot (84)" src="https://github.com/user-attachments/assets/51edff9e-5519-47cf-a3aa-33391c8e9c46" />
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
 
-## Expanding the ESLint configuration
+Installation & Setup
+1. Clone the repository:
+- 'git clone https://github.com/KUMARODEEPAK/Pokedex.git'
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+2. Move into project directory:
+- 'cd Pokedex'
+
+3. Install dependencies:
+- 'npm install'
+
+4. Run development server:
+- 'npm run dev'
+
+
+
+Project Structure
+ Pokedex/
+ │
+ ├── public/
+ │
+ ├── src/
+ │   ├── components/
+ │   ├── assets/
+ │   ├── App.jsx
+ │   ├── main.jsx
+ │   └── index.css
+ │
+ ├── .gitignore
+ ├── README.md
+ ├── eslint.config.js
+ ├── index.html
+ ├── package.json
+ ├── package-lock.json
+ └── vite.config.js
+
+
+What I Learned
+- React component structure
+- API integration using fetch/axios
+- State management in React
+- Responsive frontend development
+- Vite project setup
+- Git & GitHub workflow
