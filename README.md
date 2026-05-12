@@ -30,7 +30,7 @@ Screenshots
 
 Installation & Setup
 1. Clone the repository:
-- 'git clone https://github.com/KUMARODEEPAK/Pokedex.git'
+- 'git clone https://github.com/KUMAR0DEEPAK/Pokedex.git'
 
 2. Move into project directory:
 - 'cd Pokedex'
@@ -71,3 +71,12 @@ What I Learned
 - Responsive frontend development
 - Vite project setup
 - Git & GitHub workflow
+
+
+Future Improvements
+- Add Pokémon type filters
+- Add pagination
+- Add dark mode
+- Add favorite Pokémon feature
+- Improve UI animations
+  
