@@ -21,9 +21,11 @@ Tech Stack
 
  
 Screenshots
-<img width="1920" height="1080" alt="Screenshot (82)" src="https://github.com/user-attachments/assets/6878fe9a-c10b-4c25-af3e-bf8bbadac681" />
-<img width="1920" height="1080" alt="Screenshot (83)" src="https://github.com/user-attachments/assets/e5a8e192-6f76-4e2a-8c75-ab80d9c77890" />
-<img width="1920" height="1080" alt="Screenshot (84)" src="https://github.com/user-attachments/assets/51edff9e-5519-47cf-a3aa-33391c8e9c46" />
+<img width="1849" height="976" alt="Screenshot (82)" src="https://github.com/user-attachments/assets/2d1b8ad0-ff4a-4fc3-bd67-3941bc555eef" />
+
+<img width="1569" height="971" alt="Screenshot (83)" src="https://github.com/user-attachments/assets/bf3aeb5b-86a3-49a9-bc99-a144267f9fc0" />
+
+<img width="1620" height="980" alt="Screenshot (84)" src="https://github.com/user-attachments/assets/42c1e19a-d8e7-4c5a-97e6-8e462b4800c3" />
 
 
 Installation & Setup
